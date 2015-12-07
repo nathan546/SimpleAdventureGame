@@ -8,8 +8,7 @@ Qt5 developer tools must be installed (qt5-qmake, qt5-devel, ...)
 
 ## Compiling
 
-make clean
-make
+make clean && make
 
 ## Running
 
